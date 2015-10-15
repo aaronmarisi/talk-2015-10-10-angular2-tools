@@ -1,0 +1,17 @@
+{
+  "jspm": {
+    "dependencies": {
+      "angular": "github:angular/bower-angular@1.4.6",
+      "angular-route": "github:angular/bower-angular-route@^1.4.7",
+      "components/jquery": "github:components/jquery@^2.1.4",
+      "lodash-node": "npm:lodash-node@^3.10.1",
+      "myname": "npm:underscore@^1.8.3"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^1.6.2"
+    }
+  },
+  "devDependencies": {
+    "typescript": "^1.6.2"
+  }
+}

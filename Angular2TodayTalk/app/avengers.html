@@ -1,0 +1,7 @@
+﻿<div ng-controller="Main as vm">
+    <h1 ng-bind="vm.heading"></h1>
+    <div ng-repeat="a in vm.avengers">
+        <a href="{{a.uri}}">{{a.alias}}</a>
+    </div>   
+</div>
+
