@@ -5,35 +5,11 @@
   "path": "typings",
   "bundle": "typings/tsd.d.ts",
   "installed": {
-    "angularjs/legacy/angular-scenario-1.2.d.ts": {
-      "commit": "30387ec3dd6eb426cc48522fd3aef09ada83aa48"
-    },
-    "angularjs/angular-resource.d.ts": {
-      "commit": "30387ec3dd6eb426cc48522fd3aef09ada83aa48"
-    },
     "angularjs/angular-route.d.ts": {
-      "commit": "30387ec3dd6eb426cc48522fd3aef09ada83aa48"
-    },
-    "angularjs/angular-sanitize.d.ts": {
-      "commit": "30387ec3dd6eb426cc48522fd3aef09ada83aa48"
-    },
-    "angularjs/angular-animate.d.ts": {
-      "commit": "30387ec3dd6eb426cc48522fd3aef09ada83aa48"
-    },
-    "angularjs/angular-cookies.d.ts": {
       "commit": "30387ec3dd6eb426cc48522fd3aef09ada83aa48"
     },
     "angularjs/angular.d.ts": {
       "commit": "30387ec3dd6eb426cc48522fd3aef09ada83aa48"
-    },
-    "angularjs/angular-mocks.d.ts": {
-      "commit": "30387ec3dd6eb426cc48522fd3aef09ada83aa48"
-    },
-    "jquery/jquery.d.ts": {
-      "commit": "30387ec3dd6eb426cc48522fd3aef09ada83aa48"
-    },
-    "systemjs/systemjs.d.ts": {
-      "commit": "ebc69904eb78f94030d5d517b42db20867f679c0"
     }
   }
 }

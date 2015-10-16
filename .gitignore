@@ -163,6 +163,7 @@ jspm_packages/
 **/app/*.js
 **/app/*.map
 .vs/
+typings/
 
 # RIA/Silverlight projects
 Generated_Code/

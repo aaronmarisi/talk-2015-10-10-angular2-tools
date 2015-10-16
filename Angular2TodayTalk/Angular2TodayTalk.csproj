@@ -100,21 +100,11 @@
     <TypeScriptCompile Include="app\AvengersService.ts" />
     <TypeScriptCompile Include="app\Main.ts" />
     <TypeScriptCompile Include="app\RouteConfig.ts" />
-    <TypeScriptCompile Include="typings\angularjs\angular-cookies.d.ts" />
-    <TypeScriptCompile Include="typings\angularjs\angular-mocks.d.ts" />
-    <TypeScriptCompile Include="typings\angularjs\angular-resource.d.ts" />
-    <TypeScriptCompile Include="typings\angularjs\angular-route.d.ts" />
-    <TypeScriptCompile Include="typings\angularjs\angular-sanitize.d.ts" />
-    <TypeScriptCompile Include="typings\angularjs\angular.d.ts" />
-    <TypeScriptCompile Include="typings\jquery\jquery.d.ts" />
-    <TypeScriptCompile Include="typings\tsd.d.ts" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="typings\angularjs\legacy\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
