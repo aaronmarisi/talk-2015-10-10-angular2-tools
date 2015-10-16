@@ -160,8 +160,9 @@ ClientBin/
 *.publishsettings
 node_modules/
 jspm_packages/
-app/*.js
-app/*.map
+**/app/*.js
+**/app/*.map
+.vs/
 
 # RIA/Silverlight projects
 Generated_Code/
