@@ -7,6 +7,7 @@
     "devDependencies": {}
   },
   "devDependencies": {
-    "jspm": "^0.16.12"
+    "jspm": "^0.16.12",
+    "tsd": "^0.6.5"
   }
 }
