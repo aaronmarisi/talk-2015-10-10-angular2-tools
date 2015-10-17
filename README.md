@@ -11,7 +11,7 @@ Make sure to have the following installed on your computer:
 #To Run Project
 1. Open in Visual Studio 2015
 2. From the command line of the /Angular2TodayTalk directory, run the following:
-  a. `npm install` to install dev packages
-  b. `jspm install` to install front-end packages
-  c. `tsd install` to install type definitions
+  1. `npm install` to install dev packages
+  2. `jspm install` to install front-end packages
+  3. `tsd install` to install type definitions
 3. Press F5 to run
